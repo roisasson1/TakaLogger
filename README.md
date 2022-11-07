@@ -1,6 +1,7 @@
 # TakaLogger
 
 I'm working for a start-up company called PARKOMAT Ltd, who specialize in robotic parking devices.
+
 Until now, if there was a fault in one of the sites, only the customer could alert us.
 
 I have created a system which sends a message when a fault appears in one of the sites.
